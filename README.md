@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @berkayumutklnc
-- 👀 I’m interested in SAP ABAP / FIORI
-- 🌱 I’m currently learning ABAP-FIORI / JAVASCRIPT 
+- 👀 I’m expert in SAP ABAP / FIORI
 - 💞️ I’m looking to collaborate on ERP and SAP
-- 📫 How to reach me mail:berkayumut98@gmail.com
+- 📫 How to reach me mail: berkayumut98@gmail.com
 
 <!---
 berkayumutklnc/berkayumutklnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
