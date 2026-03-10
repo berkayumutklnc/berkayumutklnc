@@ -20,12 +20,13 @@ Kurumsal kaynak planlama (ERP) sistemlerinden, yapay zeka (AI) destekli modern S
 
 ### 🚀 Neler Yapıyorum?
 - 💼 **SAP & ABAP:** Büyük ölçekli şirketler için güvenilir ERP geliştirmeleri ve Fiori arayüzleri.
-- 🌐 **SaaS & Web App:** Next.js 15, Server Actions ve Supabase RLS mimarisi ile yüksek güvenlikli platformlar (Bkz: BUKkode / VisaVault).
+- 🌐 **SaaS & Web App:** Next.js 15, Server Actions ve Supabase RLS mimarisi ile yüksek güvenlikli platformlar.
 - 🤖 **AI Entegrasyonu:** Gemini/OpenAI modellerini kullanarak operasyonel süreçleri otomatize eden akıllı sistemler.
 
 ### 📫 Bana Ulaşın
 - **Email:** [berkayumut98@gmail.com](mailto:berkayumut98@gmail.com)
 - **LinkedIn:** [in/berkayumutkilinc](https://linkedin.com/in/berkayumutkilinc)
+- 🌍 **Web Sitem:** [berkayumutklnc.com.tr](https://www.berkayumutklnc.com.tr)
 
 ---
 *“Sıradan kodlar çalışır, mükemmel kodlar sistemi yönetir.”*
