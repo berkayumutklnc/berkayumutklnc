@@ -1,4 +1,4 @@
-# 🦅 Selam, Ben Berkay Umut KILINÇ!
+# Selam, Ben Berkay Umut KILINÇ!
 
 **Enterprise Software Engineer | SAP ABAP & Fiori | Full-Stack Web & Mobile Developer**
 
